@@ -1,2 +1,2 @@
 # LocalRepo
-Local Resosittory
+Local Respository
